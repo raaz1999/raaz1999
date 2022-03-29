@@ -19,8 +19,10 @@ My name is Rayane Azoui
 
 ## Skills ⚡
 
-Machine learning :  Pandas , Matplotlib , Jupyter , Numpy.\
-Languages : C++, Java, JS, Python.\
+Machine learning :  Pandas , Matplotlib , Jupyter , Numpy , pyspark .\
+Cloud : google cloud .\
+Dev&ops: Kubernetes , Docker .\
+Languages : C++, Java, JS , Python , R.\
 Database: SQL, MongoDB, nedb, sqlite3.\
 front-end : html/css, reactjs.\
 back-end : nodejs.
@@ -29,11 +31,13 @@ back-end : nodejs.
 	 	
 | Name                                    | Repository  | Institute |
 | --------------------------------------- |:-----------:| :--------:|
+|Data analyser and supervised model learning|[Repo](https://github.com/Ghostooo/prog_web)|U-paris|
 | Calculates missing words in a DNA sequence   | [Link](https://drive.google.com/file/d/15cCJDKLzLPUEBDqEtHjeUnPSkbXEq-4z/view?usp=sharing)     | USTHB |
 | block-puzzle                            | [Repo](https://github.com/raaz1999/block-puzzle/tree/master/lilv4)     | USTHB |
 | Offlline-Network-Analyzer                             | [Repo](https://github.com/raaz1999/Offlline-Network-Analyzer)     | Sorbonne Université |
 | Anallyse-of-android-market                            | [Repo](https://github.com/raaz1999/Anallyse-of-android-market)     | Sorbonne Université |
-| Birdy                           | [Repo](https://github.com/raaz1999/Birdy)     | Sorbonne Université |
+| Birdy-social media website                           | [Repo](https://github.com/raaz1999/Birdy)     | Sorbonne Université |
+| RLmap (paris tourist map |[Repo](https://github.com/raaz1999/web_pro)|U-paris|
 
 
 ## Competition 
