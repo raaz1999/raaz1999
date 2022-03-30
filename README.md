@@ -19,6 +19,7 @@ My name is Rayane Azoui
 
 ## Skills ⚡
 
+```
 <div style={{
     display: flex;
     flex-direction: column;
@@ -35,7 +36,7 @@ My name is Rayane Azoui
     font-size: 14px
      }}>
 	hy
-	</div>
+	</div>```
 
 ```
 Machine learning :  Pandas , Matplotlib , Jupyter , Numpy , pyspark .\
