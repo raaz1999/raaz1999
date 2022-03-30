@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 My name is Rayane Azoui 
 
 ## Skills ⚡
+
+<div style={{
+    display: flex;
+    flex-direction: column;
+    
+    background-color: rgb(255, 255, 255);
+    border-color: #eee #ddd #bbb;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+    padding: 0 16px 16px 16px;
+    margin: auto;
+    font-family: Verdana;
+    font-size: 14px
+     }}>
+	hy
+	</div>
+
 ```
 Machine learning :  Pandas , Matplotlib , Jupyter , Numpy , pyspark .\
 Cloud : google cloud .\
@@ -27,6 +46,7 @@ Database: SQL, MongoDB, nedb, sqlite3.\
 front-end : html/css, reactjs.\
 back-end : nodejs.
 ```
+
 ## Projects
 	 	
 | Name                                    | Repository  | Institute |
