@@ -25,6 +25,8 @@ My name is Rayane Azoui
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaz1999&theme=buefy&layout=compact" />
 </a>
 
+.\
+
 ```python
 Machine learning = [Pandas , Matplotlib , Jupyter , Numpy , pyspark]
 Cloud = [google cloud]
