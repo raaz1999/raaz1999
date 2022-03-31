@@ -25,14 +25,14 @@ My name is Rayane Azoui
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaz1999&theme=buefy&layout=compact" />
 </a>
 
-```
-Machine learning :  Pandas , Matplotlib , Jupyter , Numpy , pyspark .\
-Cloud : google cloud .\
-Dev&ops: Kubernetes , Docker .\
-Languages : C++, Java, JS , Python , R.\
-Database: SQL, MongoDB, nedb, sqlite3.\
-front-end : html/css, reactjs.\
-back-end : nodejs.
+```python
+Machine learning = [Pandas , Matplotlib , Jupyter , Numpy , pyspark].\
+Cloud = [google cloud]
+Dev&ops = [Kubernetes , Docker] .\
+Languages = [C++, Java, JS , Python , R].\
+Database = [SQL, MongoDB, nedb, sqlite3].\
+front-end = [html/css, reactjs].\
+back-end = [nodejs].
 ```
 
 ## Projects
