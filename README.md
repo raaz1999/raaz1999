@@ -61,5 +61,5 @@ back-end = [nodejs]
 HackerRank [click here](https://www.hackerrank.com/rayanazoui_9)
 
 
-<a href="https://www.linkedin.com/in/rayane-azoui-8771281a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rayane-azoui-8771281a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rayane%20Azoui%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
