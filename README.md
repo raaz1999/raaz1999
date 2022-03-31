@@ -20,7 +20,7 @@ My name is Rayane Azoui
 ## Skills ⚡
 
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AVS1508" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raaz1999&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaz1999&theme=buefy&layout=compact" />
 </a>
