@@ -19,26 +19,11 @@ My name is Rayane Azoui
 
 ## Skills ⚡
 
-```html
-<div style={{
-    display: flex;
-    flex-direction: column;
-    
-    background-color: rgb(255, 255, 255);
-    border-color: #eee #ddd #bbb;
-    border-radius: 10px;
-    border-style: solid;
-    border-width: 3px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-    padding: 0 16px 16px 16px;
-    margin: auto;
-    font-family: Verdana;
-    font-size: 14px
-     }}>
-	hy
-	</div>
-	
-```
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raaz1999&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaz1999&theme=buefy&layout=compact" />
+</a>
 
 ```
 Machine learning :  Pandas , Matplotlib , Jupyter , Numpy , pyspark .\
