@@ -32,11 +32,11 @@ My name is Rayane Azoui
 ```python
 Machine learning = ["Pandas" , "Matplotlib" , "Jupyter" , "Numpy" , "pyspark"]
 Cloud = ["google cloud"]
-Dev&ops = ["Kubernetes" , "Docker"]
+Devops = ["Kubernetes" , "Docker"]
 Languages = ["C++", "Java", "JS" , "Python" , "R"]
 Database = ["SQL", "MongoDB", "nedb", "sqlite3"]
-front-end = ["html/css", "reactjs"]
-back-end = ["nodejs"]
+front_end = ["html/css", "reactjs"]
+back_end = ["nodejs"]
 ```
 
 ## Projects
