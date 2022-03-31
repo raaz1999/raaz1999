@@ -58,7 +58,7 @@ back-end = [nodejs]
 
 ## Other 😄
 
-<a><img alt="Email" src="https://img.shields.io/badge/Email-rayanazoui.9@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a><img alt="Email" src="https://img.shields.io/badge/Email-rayanazoui.9@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
 
