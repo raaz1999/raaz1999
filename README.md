@@ -58,8 +58,9 @@ back-end = [nodejs]
 
 ## Other 😄
 
-HackerRank [click here](https://www.hackerrank.com/rayanazoui_9)
+<a href="rayanazoui.9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
-<a href="https://www.linkedin.com/in/rayane-azoui-8771281a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rayane%20Azoui%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rayane-azoui-8771281a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rayane%20Azoui-blue?style=flat-square&logo=linkedin"></a>
 
