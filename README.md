@@ -60,9 +60,6 @@ back_end = ["nodejs"]
 
 ## Other 😄
 
-<a><img alt="Email" src="https://img.shields.io/badge/Email-rayanazoui.9@gmail.com-red?style=flat-square&logo=gmail"></a>
-</p>
-
 
 <a href="https://www.linkedin.com/in/rayane-azoui-8771281a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rayane%20Azoui-blue?style=flat-square&logo=linkedin"></a>
 
